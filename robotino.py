@@ -1,6 +1,8 @@
-import os
 import time
 import re
+import sqlite3
+
+from datetime import datetime
 
 from slackclient import SlackClient
 from decouple import config
@@ -15,6 +17,7 @@ bot_id = None
 RTM_READ_DELAY = 1  # 1 second delay between reading from RTM
 COMMAND_LIST = ['pyramid `:emoji-code:` <optional-number>']
 MENTION_REGEX = "^<@(|[WU].+?)>(.*)"
+DB_NAME = 'messages.db'
 
 
 def parse_bot_commands(slack_events):
@@ -25,9 +28,13 @@ def parse_bot_commands(slack_events):
     """
     for event in slack_events:
         if event["type"] == "message" and not "subtype" in event:
+            if event["channel"] == "frases-epicas":
+                store_message(event['text'], event['user'])
+
             user_id, message = parse_direct_mention(event["text"])
             if user_id == bot_id:
                 return message, event["channel"]
+
     return None, None
 
 
@@ -80,9 +87,44 @@ def handle_pyramid(command, channel):
             text=emoji * i
         )
 
+
+def setup_database():
+    conn = sqlite3.connect(DB_NAME)
+    c = conn.cursor()
+    try:
+        creation_sql = "CREATE TABLE messages(date text, message text, user text)"
+        print(creation_sql)
+        c.execute(creation_sql)
+        conn.commit()
+        print("Table created!")
+    except:
+        pass
+
+    conn.close()
+
+
+def store_message(message, user):
+    conn = sqlite3.connect(DB_NAME)
+    c = conn.cursor()
+    date_now = datetime.now().strftime("%Y-%m-%d")
+    print("Saving message for date {}, submitted by {}".format(date_now, user))
+    try:
+        creation_sql = "INSERT INTO messages('', message, user)".format(date_now)
+        print(creation_sql)
+        c.execute(creation_sql)
+        conn.commit()
+        print("Message saved: {}".format(message))
+    except:
+        pass
+
+    conn.close()
+
+
 if __name__ == "__main__":
     if slack_client.rtm_connect(with_team_state=False):
         print("Starter Bot connected and running!")
+        setup_database()
+
         # Read bot's user ID by calling Web API method `auth.test`
         bot_id = slack_client.api_call("auth.test")["user_id"]
         while True:
