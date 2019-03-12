@@ -1,0 +1,609 @@
+22/1/16
+“Hay que mirar al pasado para tener esperanza de poder arreglar el futuro” Ingeniero Agustín Castillo
+“Cuando empezó Navidad?” Nicolás Pérez
+
+25/1/16
+“Yogurt de café yo quiero, que sea cafe con tanta crema que tenga textura de yogurt”, Nicolás Pérez
+
+3/2/16
+“Cuanto menos supongas, mejor”, Nicolás Pérez
+
+8/2/16
+“Una pequeña línea de código para el IDE, una gran funcionalidad para el proyecto”, Ing. Agustín Castillo
+
+10/2/16
+"ah , el tren pasa una sola vez”, mathias lantean, en relación al levante con mujeres…
+
+15/2/16
+"La primera opción es el primer paso para hacer la mejor solución.” Ing. Agustín Castillo
+"Tal coordinación no es mera suerte sino que el resultado de su obra.”, ingeniero Castillo ante la capacidad logistica del Sr. Uriarte
+
+22/2/16
+“si commiteas un viernes, hay tabla” , Ing. Castillo
+
+2/3/16
+“La vida es un RPG” - Ignacio Duran
+
+3/3/16
+“Si no sos con los hunos, sos con los otros” Ing. A. Castillos
+
+4/3/16
+“Pagar es para perdedores que no saben robar” - Ignacio Duran
+
+8/3/16
+“A ensayo y error todo se puede” Ing. A. Castillo
+
+11/3/16
+“¿La banana está comible?” Ing. Matías Lantean
+
+14/3/16
+“Un voto, un choripan.” - eslogan y estrategia de la campaña de Nico para las próximas elecciones del BPS
+
+23/3/16
+“Chupar hasta no reconocer el bien del mal” Daniel
+“Ahora el rsync no sync” > Nico Pérez
+“la consola te muestra errores conceptuales” > Nico Pérez, 21:30hs al debuggear web
+
+28/3/16
+“Uhmmmm” x 100 - Diego en reunion con Eric (https://media.giphy.com/media/x8VqaIJtjZPyg/giphy.gif )
+“normalmente se divide en 2 partes, la 1ra, y la 2da” , Futuro Ing. Poittevin, al explicar por qué la gente renuncia en la Facultad.
+
+29/3/16
+“mierda que soy muy inteligente”, futuro Ingeniero Durán al hablar humildemente de si mismo.
+“Yo te voy a dar lo que te falta” De Roberto a Diego, 16:53hs
+"Callate, vos callate" Suarez al capitán peruano.
+
+31/3/16
+“Ahora la movida es hacer las cosas bien.” - Marcelom hablando de la nueva version de la API en Adgo
+“Los mexicanos y los chilenos son iguales, todos son bajitos, todos los odian…” - Fabrizio en vista de parecido de mexicanos y chilenos
+
+1/4/16
+Abriendo las Magics nuevas 
+Marcelo: “Es 7/11!”
+Fabrizio: “Y brilla!! :scream:"
+“Burger King, Magic y masitas, que mejor tarde que esa?” - Ing. Agustin Castillo
+
+12/4/16
+“Me gusta la banana” - JP  :jponfire:
+
+13/4/16
+“Aca no es sobre si va a explotar, aca es CUANTO va a explotar” - Fabrizio Albertoni
+"Pongo los huevos en el fuego, es esto!!!" Marshalom haciendo referencia a dónde está el error
+
+14/4/16
+“Quien fue el hdp que se pidio tortilla?!… Ah! Fui yo!” - Ing. Agustin Castillo en un momento no tan iluminado
+
+15/4/16
+child_count['concept']['active'] += concept.status == 'active'  - Fabrizio Albertoni, sumando booleanos a ints
+"Lo que facil viene, facil se va” - Mathias Lantean respecto a los juegos de azar
+“yo cuando era chico, quería ser como yo ahora”, Ing. Castillo hablando humildemente de si mismo….
+
+18/4/16
+“JSONificar, del latin JSONificus, dicese del acto convertir cualquier objeto o conjunto de los mismos a formato JSON” - Real Academia de Tin
+
+27/4/16
+“Tengo un pedido a nombre de…JP?” - Repartidor de empanadas
+
+28/4/16
+“El problema es tener moral” - Prox. Ing. Fabrizio Albertoni (sobre tener novia en cruceros)
+
+4/5/16
+“Ron me mando una hamburguesa…” - Prox. Ing. Fabrizio Albertoni, totalmente descolocado frente a la situacion
+“lo que habría que haber hecho con el avión Concorde, era ponerle un silenciador nomás….”, futuro Cardiólogo/Ingeniero/Mago Juan Poittevin, al referirse a una solución, del por qué el avión supersónico volaba tan bajo….
+
+5/5/16
+“qué curioso, qué curioso…..Qué extraño, qué coincidencia……”, futuro Ing. Durán, al no tener la más p….. idea por qué no le llega 1 push a Roberto.
+
+9/5/16
+“Esta entrando mucha gente a mi coso” Marcelo en relación a la cantidad de request a su servidor
+
+10/5/16
+“Y la guardo en bitmap, porque JPG es para pussies” - Futuro ing. Fabrizio Albertoni hablando de la mejor forma de hacer claves en BD
+“El ahorro es la base de la economia” - Ing. en Economia Lantean
+
+12/5/16
+“Es mejor opinar sin saber” - Mathi PhD, MBA, Ingeniero en LoL
+“Hay cosas en las que uno no puede escatimar” Jp haciendo referencia a sus actividades lúdicas
+
+13/5/16
+“Dios le da viajes al que no tiene pan” - Ingeniero Agustin Castillo antes del cafe
+
+16/5/16
+“Pierde mucha importancia el deporte visto desde el estadio” - Dr. Nico Perez periodista deportivo y comentarista de futbol
+“Para el usuario con la ruedita de cargando, el tiempo se contrae” - Ing. Agustin Castillo en su teoria de relatividad especial en usuarios
+
+18/5/16
+“Con las cartas Magic no se juega.” -Marcelo
+“No esta bueno que te caguen. Esta bueno cagar pero no que te caguen.” Gastroenterologo Dr Juan Pablo Poittevin
+
+25/5/16
+“No hice nada…. De las mejores semanas de mi vida” Ignacio Durán, en referencia a su semana libre
+
+2/6/16
+“Como consigo amigos?” - Ingeniero Tin, filosofando sobre su vida
+
+6/6/16
+“Uno se compromete con la empresa, pero la empresa no se commitea back” - Ignacio Duran haciendo referencia a no ir a ver Civil War ni X-Men
+
+8/6/16
+“El tema es el largo. El ancho no pasa nada.” -Mathi hablando de cosas que “aprende por experiencia"
+
+14/6/16
+“Una empanada es una empanada” - (quasi)Ingeniero Fabrizio Albertoni, sobre sus preferencias
+“La primera es gratis” - Fabrizio Albertoni (inspiradisimo), hablando sobre las leyes de robos y rapiñas
+“así nomás nos cortó la música….Qué hijo de puta!!!”, Ingenieri Tin, haciendo referencia a Marshalom, al momento de cortar en seco la música, y convertir la oficina en un velorio...
+
+15/6/16
+“Los ríos son los water cooling del dia” - Ingeniero Tin, filosofando sobre su conocimiento recien adquirido a traves del meteorologo Mathi
+
+17/6/16
+“Hacer las cosas una semana antes es para giles” - Fut. Ingeniero Nicolas Perez, hablando de la mentalidad Uruguaya
+
+24/6/16
+“Este código es tan negro que casi me roba el celular” - Ingeniero(casi) Fabrizio Albertoni, respecto a un algoritmo peligroso
+
+27/6/16
+“El que estaba hecho me quedo bien”
+“No necesitas saber las cosas para hacerlo”
+-Nico Perez, Master Game Designer
+
+28/6/16
+“Me discriminan por no estar bueno” Ing. Agustin Castillo
+
+“Decir cosas a JP es como tirar cosas a un agujero negro.” - Ingeñery Mathias Lantean, revelando la naturaleza de su compañero
+
+29/6/16
+“Nunca documentes nada. Y si lo haces, asegurate de no cumplirlo.” - Licenciado y 4/5 ingeniero Fabrizio Albertoni, diciendo la verdad de la milanesa
+
+4/7/16
+“No hay gente fea, hay gente pobre.” Fut. Ingeniero Marcelom, terminando la discusión filosófica sobre mujeres en relación al dinero.
+
+5/7/16
+“No random es random cuando siempre ponemos random”. DJ. Ing Agustin Castillo
+
+7/7/16
+“Pensé que era joven…Y me di cuenta que no” - Gurú JP, finalmente dándose cuenta de su única limitación tras correr media cuadra y quedar hecho mierda
+
+8/7/16
+“Y si querés regar en HD, ¿como haces?” - F. Albertoni, demostrando la utilidad del conversor HDMI - Manguera
+
+11/7/16
+“tenés el puerto libre?”, futuro Ing. Lantean, con una frase técnica para encarar mujeres
+
+13/7/16
+“-Me tengo que comer todos los semáforos?- Mathi
+-Mañana es feriado, no hay nadie- Nico
+-Los semáforos siguen estando!- Tin
+-No estan los que te multan” -Nico
+Conversación que demuestra los valores de nuestra sociedad de parte principalmente del señor lead fut. ingeniero Perez Giorgi
+
+25/7/16
+Mathi: “Jp vos estudiaste el finde?”
+Jp: “No”
+Mathi: “Bien! Sos de los mios!”
+Jp: “Pero porque yo exoneré…"
+http://i0.kym-cdn.com/entries/icons/original/000/011/848/cold.jpg
+
+25/7/16
+“-Y entran un grupo de negros a la sala- Tin
+-Y apagamos la luz!-” JP, mostrando sus claras preferencias de como pasar su tiempo junto a un grupo de negros
+
+
+1/8/16
+“Pah, lo tenes re grande!… El emulador”, Ing. Nacho dirigiéndose a Diego en referencia al tamaño de “el emulador"
+
+4/8/16
+“Es lo mismo. Eventualmente te van a romper el ojete.” - Mathi Lantean, diciendo la verdad de la milanesa
+
+5/8/16
+“El que me aparecio es una chota” - Diego
+“Te aparecio una chota?” - Tin
+
+Las situaciones que suceden en Innuy gracias a Pokemon GO
+
+8/8/16
+“-Bueno, Anto te cago- Diego
+-Que?! Cuando?! - Marcelo
+-Ayer, ¿no te acordas?- “ Diego, revelando un secreto que rompio el corazon de cierto futuro ingeniero. Solo el dinero podrá sanar ese dolor.
+
+
+9/8/16
+“Putas para el trabajo en equipo” - Mathi cuando el subconsciente lo traiciona leyendo las *Pautas* para el trabajo en equipo
+
+10/8/16
+“qué BD usa Pokemon-Go?” Mon-Go, ingeniero Tin, ilustrando al equipo con sus capacidades linguísticas, y conocimiento de juegos…
+
+24/8/16
+“Te da un certificado gratis…Y bien barato.” - JP, mostrando sus conocimientos de economia
+
+30/8/16
+“Le pedis el numero y la guardas como Profesora de Guitarra” - Fabrizio, sabio entre los sabios, hablando de como guardar el número de una mina que esté buena ya teniendo novia
+
+1/9/16
+“La refrego como loco” - Nacho hablando de una aceituna sobre una milanesa
+“Que es peor que ser púrpura? Ser negro - Fabrizio haciendo referencia a las clases de defensa contra racismo de Nacho
+
+9/9/16
+“Al que madruga dios le da bizcochos” - Diego en referencia al conteo de gente para comenzar el ritual de viernes de mañana
+
+12/9/16
+“Cada una me como gratis” - :jponfire: :jponfire: :jponfire: :jponfire: :jponfire: :jponfire: :jponfire: :jponfire:
+“Yo me como cada una gratis…..”, @juanpaps03 haciendo alusión a como lo joden en la empresa (queremos creer que es eso…..)
+
+16/9/16
+"JP, tenes pichulin?" - Mathi en la discusion acerca de la masculinidad de JP
+“Bob quiere hijos” … “Para qué quiere hijos si nos tiene a nosotros…” - Mathi
+
+20/9/16
+"Si terminas con tu novia avisame" JP a Mathias
+
+26/9/16
+“Te la comes despues en tu casa. Te comes un cajon entero si queres.” Ing. Tin, diciendole a JP que puede comer “bananas"
+
+26/9/16
+-Juan: “Me queres ver comer la banana?”
+-“Te quiero ver feliz” responde Nacho
+
+4/10/16
+"Dios le da pan al que tiene novia" - JP haciendo referencia a la fiesta de halloween de Mathi
+
+5/10/16
+“diferente no es mejor ni peor, es diferente.” , futuro Ing. Poittevin al reflexionar sobre temas existenciales
+
+6/10/16
+"La administracion esta cerrada" JP OnFire cuando le preguntan datos por telefono
+“Hola, innuy buenas tardes” riiiing riiiiing … Jp y sus habilidades de telefonista..
+
+7/10/16
+“Estoy viendo por cuantas manos paso el coso este.” - semi-Ing Lantean, hablando del miembro de Rasputin.
+
+20/10/16
+"Mañana va a ser mañana" - JP en un momento de iluminacion
+“Voy a hacer branches con tus piernas” - Amenaza de Mathi a JP para el partido del sabado
+
+25/10/16
+"Y que has estado haciendo todo este rato?" JP
+"Mirando la pantalla desconcertado! " Marcelo
+Los desarrolladores totalmente desconcertados sin el ingeniero
+
+7/11/16
+"Voy a ser tremenda zorra...Lo que siempre quise!" - Facha Lantean frente al prospecto de ser mujer
+
+16/11/16
+"tenes que empezar de abajo", Santa Poittevin bajándole el ánimo a Mathias sobre sus espectativas de alquiler de vivienda
+Concepto de Juan, sobre "empezar de abajo"
+
+22/11/16
+"Esto lo interpreto asi porque me queda mas fácil" - Marcelo interpretando requerimientos
+
+25/11/16
+"Vos dame tu ip y yo te hago todo" JP en referencia a que pasa si le das tu ip
+
+5/12/16
+"Que chances hay que alguien aca tenga estrellas ninja" Fabri - Posteriormente 4 personas levantan la mano .....
+"Fui uno de los afectados por una descarga de energia que vino desde saturno" Ferdi 
+
+6/12/16
+"La ropa es un invento absurdo, todos deberiamos usar bolsas de papa" Ingeniero Nacho Duran
+"Estoy convencido que estoy en un Truman Show, en realidad yo no soy raro, la gente de afuera es como yo" Ingeniero Nacho Duran (se esta dando cuenta)
+
+8/12/16
+"Soy El Nacho Bien Rocho pa' todas las piba' :notes:" Nacho y sus éxitos musicales
+
+12/12/16
+"La idea es evitar accidentes, no pelotudos" -Nico Perez especialista en seguridad
+"El tema es que el brasilero que va a Punta del Este no es el mismo que va a Santa Teresa". -Tin
+"Y si, si esta en Punta del este no esta en Santa Teresa" -Fisico Teorico y Opinologo profesional Nicolas Perez
+"Si fueran todos putos, me joderian igual con eso?" -JP buscando aceptacion del grupo
+
+5/01/17
+"La pongo de mal humor muy seguido" - JP sobre sus ultimas actividades
+
+6/01/17
+“Te estoy tirando fruta pero lo mas probable es que funcione” JP (aclaracion: funciono :magic: :jponfire:)
+
+20/01/17
+"Que tan negro es hacer esto en la escala de 'El tipo que hace de Malfoy' a 'Rada'? - Ferdi
+Michael Jackson...Es negro pero nadie se va a dar cuenta - Fabri" Inspiración mágica para cuantificar que tan negro es un código
+
+25/01/17
+"Te lame el pollo" - Ferdi ... Sin palabras…
+
+27/01/17
+"Saquen la mano y pongan el dedo" - Tintin, hablando de sus preferencias
+
+30/01/17
+"Cagaso que me pegue cuando la vi venir, grande y negra..." - Rafa a.k.a Federico Alberti
+“Alguien le puede encontrar un error a este script?” -Mathi y sus 189 lineas de puro bash
+
+15/02/17
+"No te sentís como un hobbit saliendo de la Comarca?" -Tin a Nacho emprendiendo su unexpected journey
+:grumpy: <== la cara de nacho al tener que viajar
+
+16/02/17
+"El problema no es la musica, el problema es que falta alcohol para la musica” - Ing Castillo escuchando Rodrigo en la oficina
+
+17/02/17
+"Mac OSX El Capitan, Windows 10 Pirata" - Tin en un debate de nomenclatura de sistemas operativos
+
+1/03/17
+"Hoy me hago hombre y me como uno entero" - Rafa (Fefo)
+
+7/03/17
+"Voy a ser la persona mas puta que hayan visto" - Ing. Duran mostrando una faceta suya nunca antes vista
+
+8/03/17
+"Admito que a veces soy raro" - Ing. Duran en un dia de revelaciones
+"Me tuve que comer 30 pedazos" Sr Federico Alberti hablando del último casamiento al que asistio. Al mismo tiempo que decia la frase, sostenia y agitaba la mitad de su brazo derecho.
+"Se llama Erica, nosotros le decimos Oscar" conversación entre Diego y  Marce
+
+10/03/17
+"chupala!!!" - Futuro Lord Ing. Vonrotz, al mandar callar a alguien...
+ 
+14/03/17
+"El problema es si te la pone y te la saca" Ingeniero Ignacio Duran, segundos antes de reconocer su grave error
+       
+15/03/17
+"Comparando tu sandwicherota con mi sandwicherita no puedo creer que hayas pensado que entraban 4" CTO Juan Pablo Poittevin discutiendo con el Conde Von Rotz
+"Hasta que no me lo mostraste no lo habia visto" Conde Von Rotz en respuesta
+
+22/03/17
+"...la estoy arrimando..." - Juan Pablo, al tratar de justificar una situación bastante clara realmente…
+
+30/03/17
+"Está un poco más blanco y un poco más amarillo, necesita más azul" - Mecenas Siccardi, hablando de la tonalidad especifica de verde usada en un botón en cuestión.
+
+4/04/17
+"Si no descubre el error, el error no está" - Ing. Sir Tin, sobre la teoría principal del QA testing
+"que nos riamos de vos, no significa que seas divertido", Futuro Ing. Ínsua, aplicándole un cachetazo moral a @ferdinand
+
+6/04/17
+“Mi código va a ser tan perfecto que no va a necesitar try-catchs” Fede minutos antes de que su código explotara en la primer prueba
+
+7/04/17
+"JP quiero queso roñoso" - Money for nothing.
+
+11/04/17
+"Cuando pienso en Kolinx pienso en un ruso. Ej: Ivarishnik Kolinx", Fefo, diciendo cualquier pavada, e invocando al ruso de Rocky IV
+Nacho - “cuales de los 4 evangelistas eran apostoles?”
+Diego - “7"
+
+13/04/17
+“Marce: Vos sos la vieja de los gatos?
+Diego: No. No soy vieja. No soy mujer. Y no tengo gatos, tengo gatas.” - Diego demostrando superioridad. Mic dropped.
+
+14/04/17
+"Yo soy el que conoce a Martin y a Ferdi hace mas tiempo, por ende yo soy el indicado para cuidar sus huevos.." Fefo dejandonos sin palabras a todos…
+
+17/04/17
+“¿Que pasaria si acá pongo True?” - Senior Developer y Futuro Ingeniero Fefo Alberti
+“Es suavecita y me la refrega por el brazo” Master en Marketing Roberto Uriarte
+
+24/04/17
+“I had to move the party to next weekend, because I have classes” -> Verdulero López, explicándole a “Paty” por que no va a festejar hoy….
+
+22/06/17
+frase Fefiana (de Sir_Fefote) : “Es imposible que tenga 39, me siento mareado pero no a punto de morir. Tenia el aire prendido en 32 grados, ahora lo apague y me la tomo de nuevo”
+
+03/07/17
+respuesta de alguien en el Quizz en relación a la pregunta “Comentarios/Sugerencias en general?” -> “Falta una masajista rusa llamada Gretchen que no hable ni español ni inglés. Sólo ruso.”
+
+B R I L L A N T E
+
+10/07/17
+“Hay que jugar un smash, tengo que probar un punto” - dice Fefo desafiando a Diego
+“Que punto?” -Diego se pregunta
+Fefo: “Que soy mejor que vos”
+
+17/07/17
+"Crucen los huevos que estoy por probar algo"
+Federico Semelengualatraba Alberti intentando enunciar esperanza.
+
+20/07/17
+“soy una lenteja crónica”, Sir_Fefote teniendo un momento de revelación
+
+24/07/17
+“El que sabe sabe, y el que no sabe copia de StackOverflow” - Ingeniero Tin, con la estrategia milenaria
+
+26/07/17
+Conversación altamente cultural entre Lord Vonrotz y Sir Fefote: [Ferdi]: “Fefo se ahoga en su ignorancia…“, [Fefo]: “Ferdi puto”.
+
+27/07/17
+"Mas de lo que hice no puedo hacer" Lu en referencia del pedido de Fefo de arreglar su imagen con photoshop
+"Yo de acá lo leo sin problemas", dice el CTO al hacerse el canchero leyendo a 3cm del monitor
+
+22/08/17
+JP: “sabes lo que es un hypervisor?”
+@ferdi: “algo mas fuerte que un supervisor?”
+
+28/08/17
+“2009!” -Martin
+
+31/08/17
+@nicopg: "Somos la mesa con la mejor relación Trabajo/Diversión"
+@tintin: "Si... 0 ambas"
+
+08/09/17
+@nacho: "Qué te pasa? Decímelo de frente si te animás!"
+@nicopg: "Te lo digo de costado si venís hasta acá..."
+Nico mostrando sus habilidades de negociación
+
+21/09/17
+@nicopg: “Imaginate enchufar la laptop a la pantalla del cine y programar ahi”
+@marcelo: “Pa! Ese codigo te va a quedar…De pelicula!”
+
+6/11/17
+“Estoy buscando la cagada y no la encuentro” - Fefo luego de tirar un vaso entero de agua arriba de la mesa. Famous last words.
+
+8/11/17
+"Coff coff, uarrg, la puta madre" - Todos despues de que @mathias tirara gas pimienta
+
+14/11/17
+“fefo es un bug de la Naturaleza…“, @diego.insua al tratar de definir “bug” vs “requerimiento”
+
+17/11/17
+"No le pusieron _Latín_ por nada"
+@bob haciendo referencia a los orígenes milenarios de @tintin
+
+5/12/17
+"La seguridad es para los cagones, yo me planto sin password ni nada" @nicopg
+
+8/12/17
+“anda a hacerte dar por un caballo!“, Lord Fefo manteniendo un alto nivel cultural con “el facha Lantean”
+
+12/12/17
+“Tengo un Masterado en chocolate” -MSc Fefote
+
+"Yo no les quiero quitar crédito, sólo dicen que es algo que no es." - @rafa V
+"Eso que acabas de decir... es marketing." - el toque cínico/realista de @bob
+
+14/12/17
+“no seas grumpy Marce!!” -> @bob
+“tengo muchos apodos en mi familia….” -> @rafa V
+
+
+"Fefo esto ni lo leiste" - Tin
+"Ah si, copie y pegue de StackOverflow" - Fefo
+"Pero no lo digas orgulloso!!!" - Tin
+Code review entre @Fefo y @tintin
+
+
+15/12/17
+“si un sistema no se usa, tiene bugs?” -> momento filosófico de @bob :thinking_face:
+
+19/12/17
+“la he tenido atrás varias veces” -> Lord fefote hablando de la DGI (creemos)
+
+2/1/18
+“eso va a pasar, nos vamos a tocar entre nosotros….” Mike diciéndole a @ferdi algo relacionado con “el código” (?)
+
+5/1/18
+@rafa V: “Está mal en tantos niveles que no sé por donde empezar.”
+@nacho: “Yo creo que está tan mal que está perfecto.”
+
+Sabiduría programática :raised_hands:
+
+8/1/18
+“Lo primero que hago cuando me levanto es hablarle a mi novia” - Nacho 
+“AAAAWWWW! ¿Nacho queres ser mi novio? -Mathi :heart_eyes:
+
+11/1/18
+“yo edité videos 1 vez”, “ta! listo! sos el experto!” conversación entre @diego.insua y @nacho
+
+24/1/18
+@marcelo: “Negrada inbound”
+@tintin: “No es una negrada… pero está bronceadita”
+Hablando de una parte oscura del código
+
+29/1/18
+"Del 1 al 10, que tan sensual calificas mi barba?" - The fefo
+
+31/1/18
+"You all have eaten from the tupperware" -> frase que seguramente pensó el desarrollador que hizo el sistema POST, al hacer la implementación actual y asegurarse trabajo durante años
+
+1/ 2/18
+"Describing the problem takes you half way towards the solution" - Yoav, explorador de cuevas profesional
+
+2/2/18
+“Fefo alguna vez hablaste con una persona?” - Marcelo O atónito ante las habilidades de conversación de Fefo
+“Con este nivel de conversación Fefo esta para escribir guiones de películas porno” - Nico crítico y productor de cine porno
+“Para peor es re fácil, sólo tenes que decir -‘Hola, querés una pizza?’ -‘No’. Y ahí van a los bifes” - Fefo, continuando el comentario anterior
+“No Fefo, no sabés nada, le tiene que decir ‘Sí, pero no tengo como pagarte.’” - Nico haciendo showoff de sus conocimientos
+
+8/2/18
+"3.14159265, pua no me acuerdo, pero habian mas" @marcelo mostrando su conocimiento sobre los digitos de pi, mientras los recitaba
+
+12/2/18
+"Los musculos tienen memoria" - Neurocirujano por herencia Federico Alberti
+"Entonces los mios tienen alzheimer" - Ing. Tin
+
+13/2/18
+"Reconozco que mi integridad no es absoluta" Ing. Marcelo II
+
+27/2/18
+“Vos porque no empezaste las clases ayer!!!!” - dice Diego enojado :dieguin:
+“Ah si, ¿Como te fue?” - Nacho
+“No fui…” - respuesta sincera de Diego
+
+6/3/18
+(hablando de hacer un experimento con cartas…)
+@rafa V: “No va a demostrar nada, pero va a ser divertido.”
+@ferdi: “Ah, justo como mi tesis!”
+
+21/3/18
+"esta cancelación de vuelo fue un cambio de requerimiento tardío del cosmos"
+@rafa V con menos de 24 horas para estar en vuelo a Israel
+
+22/3/18
+“Quien le puso Dulce de Leche a la bolsa?” - @diego.insua
+“Alguna vez probaste bolsa con Dulce de Leche? Es más rica que la bolsa sola” - @tintin
+
+2/4/18
+“Vegan is not burger” -> McDonald’s guy (Israel) telling @rafa V the truth about life
+
+13/4/18
+"Dado suficiente dinero no necesitas suerte." - @nacho inspirado en la economia de Fire Emblem.
+
+"Es tipo el Age of Empires" - @martin sobre Geo Politica
+
+17/4/18
+“los estándares es lo único que nos separa de los animales”… @marcelo argumentándole a @diego.insua algo seguramente sin sentido…
+
+26/4/18
+"'Bien' es una interfaz que tenemos todos y cada uno tiene su propia implementación." @nicopg sobre la felicidad en el rubro de la informática
+
+17/5/18
+"Traé masitas loco!" @bob reclamando lo que es nuestro
+
+18/5/18
+“-Igual estoy en re modo anti indios ahora - @lu
+-¿Y por que estas asi?- @bob
+-Porque vos me dijiste-
+-Ah. Entonces si, esta bien.-” - Bob con sus cambios de actitud
+
+23/5/18
+"Pero y si te ponen una coma al principio?" - Diego
+"Y por que te pondrian una coma al principio?" - Tin
+"Porque la gente es estupida" - Diego :grumpy:
+Diego recalcando su fe en la humanidad
+
+25/7/18
+“Why have honor when you can have victory?” -Lord Ferdinand Vonrotz.
+
+9/8/18
+“El chocolate tiene una imagen de una vaca. ¿Lo comés?” -Mathi al vegetariano Marcelo O
+
+14/8/18
+"Lo dijo un experto en dba" - Alguien (:wink:) justificando el no usar Foreign Keys en una base de datos.
+
+17/8/18
+@mathias, después de ver el trailer de _Jurassic World_:
+> ...¿Porqué nunca se los comen de una y siempre les gritan en la cara?
+
+18/9/18
+"El daño auditivo no es sólo por duración." –@tintin
+"...¿Qué dijo?" –Mathias "Auriculares" Lantean @mathias
+
+2/10/18
+ferdi: “él suele procrastinarse bastante…”
+bob: “procrastinarse? no se que es eso…”
+ferdi: “es dejar las cosas para después porque tenes tiempo…”
+bob: “ah! es pelotudearse!”
+ferdi: “bueno, si, pero ese es el nombre cientifico”
+
+5/10/18
+mathias: “Lu, ya tenes el texto pronto??”
+Lu: “Estoy hablando con Sally, ya te lo paso huevón”
+
+13/11/18
+martin [3:17 PM]
+> quick and dirty, sin bugs y sustentable a largo plazo
+
+
+23/11/18
+mathi: “agarre un dump viejo de la base de datos y funciono”
+rafaV: “funciono el viejo y no el nuevo? No te parece un problema eso?”
+nacho: “Las cosas son un problema solo cuando queres solucionarlas…”
+
+26/11/18
+“un OrderedDict es un como un diccionario pero ordenado, no?” -Mathi
