@@ -1,12 +1,18 @@
 import time
 import re
 
-from channel_ids import FRASES_EPICAS
-from db import setup_database, save_message
+from datetime import datetime
+from random import choice
+
+from channel_ids import FRASES_EPICAS, BOT_TEST
 from slack_api import SlackAPI
+from db import DB
 
 RTM_READ_DELAY = 1  # 1 second delay between reading from RTM
-COMMAND_LIST = ['pyramid `:emoji-code:` <optional-number>']
+COMMAND_HELP = [
+    '_pyramid `:emoji-code:` <optional-number>_',
+    '_epic <optional-text-filter>_'
+]
 MENTION_REGEX = "^<@(|[WU].+?)>(.*)"
 
 
@@ -14,18 +20,22 @@ class Robotino(object):
 
     def __init__(self):
         self.slack = SlackAPI()
+        self.db = DB()
         self.bot_id = None
 
     def run(self):
         if self.slack.connect():
-            print("Starter Bot connected and running!")
-            setup_database()
-
+            print("Robotino connected and running!")
+            self.db.setup()
             self.bot_id = self.slack.get_bot_id()
             while True:
                 command, channel = self.parse_bot_commands(self.slack.read())
-                if command:
-                    self.handle_command(command, channel)
+                try:
+                    if command:
+                        self.handle_command(command, channel)
+                except:
+                    self.slack.post_message(channel, ":weird:")
+                    self.slack.post_message(channel, "I just crashed horribly :boom:\nTell my family I'm sorry")
                 time.sleep(RTM_READ_DELAY)
         else:
             print("Connection failed. Exception traceback printed above.")
@@ -38,13 +48,17 @@ class Robotino(object):
         """
         for event in slack_events:
             if event["type"] == "message" and not "subtype" in event:
-                print(event['user'], event['channel'], event['text'])
-                if event["channel"] == FRASES_EPICAS:
-                    save_message(event['text'], self.slack.get_user_name(event['user']))
-
+                print("[user:{}][channel:{}]: {}".format(event['user'], event['channel'], event['text']))
                 user_id, message = self.parse_direct_mention(event["text"])
                 if user_id == self.bot_id:
                     return message, event["channel"]
+                else:
+                    self.db.save_message(
+                        text=event['text'],
+                        user=event['user'],
+                        channel=event['channel'],
+                        date=datetime.now()
+                    )
 
         return None, None
 
@@ -61,10 +75,12 @@ class Robotino(object):
         """
             Executes bot command if the command is known
         """
-        default_response = "Not sure what you mean. Try: {}.".format(COMMAND_LIST)
+        default_response = "Not sure what you mean.\nTry:\n    {}".format('\n    '.join(COMMAND_HELP))
 
         if 'pyramid' in command:
             self.handle_pyramid(command, channel)
+        elif 'epic' in command:
+            self.handle_epic_phrase(command, channel)
         else:
             self.slack.post_message(channel, default_response)
 
@@ -85,6 +101,27 @@ class Robotino(object):
         print("Creating emoji loop: pyramid {} {}".format(emoji, iterations))
         for i in iterations:
             self.slack.post_message(channel, text=emoji * i)
+
+    def handle_epic_phrase(self, command, channel):
+        ignored_words = ['epic', 'phrase', 'frase', 'epica', 'de', 'for', 'of']
+        text_filter = []
+        for command_part in command.split(" "):
+            if command_part.strip() and command_part not in ignored_words:
+                text_filter.append(command_part)
+        text_filter = " ".join(text_filter)
+        messages = self.db.get_messages(FRASES_EPICAS, text_filter)
+
+        if not messages:
+            if not text_filter:
+                response = "Sorry, I don't have any epic phrase at the moment."
+            else:
+                response = "Sorry, I don't have any epic phrase for '{}'. Try a wider search.".format(text_filter)
+        else:
+            random_message = choice(messages)
+            response = "> {}\n{}".format(random_message.text, random_message.date.strftime("%-d %b. %Y"))
+
+        print(response)
+        self.slack.post_message(channel, text=response)
 
 
 if __name__ == "__main__":
