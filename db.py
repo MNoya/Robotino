@@ -26,7 +26,7 @@ def save_message(message, username):
     date_now = datetime.now().strftime("%Y-%m-%d")
     print("Saving message for date {}, submitted by {}".format(date_now, username))
     try:
-        creation_sql = "INSERT INTO messages('{}', message, user)".format(date_now)
+        creation_sql = "INSERT INTO messages('{}', '{}', '{}')".format(date_now, message, username)
         print(creation_sql)
         c.execute(creation_sql)
         conn.commit()
