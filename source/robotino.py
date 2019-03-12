@@ -118,7 +118,15 @@ class Robotino(object):
                 response = "Sorry, I don't have any epic phrase for '{}'. Try a wider search.".format(text_filter)
         else:
             random_message = choice(messages)
-            response = "> {}\n{}".format(random_message.text, random_message.date.strftime("%-d %b. %Y"))
+            text_parts = random_message.text.split('\n')
+            if len(text_parts) > 1:
+                quoted_text = ""
+                for text in text_parts:
+                    quoted_text += "> {}\n".format(text)
+            else:
+                quoted_text = "> {}".format(random_message.text)
+
+            response = "{}\n{}".format(quoted_text, random_message.date.strftime("%-d %b. %Y"))
 
         print(response)
         self.slack.post_message(channel, text=response)
