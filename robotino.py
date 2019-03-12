@@ -2,7 +2,7 @@ import time
 import re
 
 from channel_ids import FRASES_EPICAS
-from db import setup_database, store_message
+from db import setup_database, save_message
 from slack_api import SlackAPI
 
 RTM_READ_DELAY = 1  # 1 second delay between reading from RTM
@@ -40,7 +40,7 @@ class Robotino(object):
             if event["type"] == "message" and not "subtype" in event:
                 print(event['user'], event['channel'], event['text'])
                 if event["channel"] == FRASES_EPICAS:
-                    store_message(event['text'], self.slack.get_user_name(event['user']))
+                    save_message(event['text'], self.slack.get_user_name(event['user']))
 
                 user_id, message = self.parse_direct_mention(event["text"])
                 if user_id == self.bot_id:
