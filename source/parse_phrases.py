@@ -1,8 +1,11 @@
+import os
+
 from datetime import datetime
 
 
 def parse_phrases():
-    filepath = 'phrases.txt'
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    filepath = os.path.join(base_dir, 'phrases.txt')
     phrases = []
     errors = []
     with open(filepath) as fp:
