@@ -3,6 +3,9 @@ from sqlalchemy import Column, Integer, String, Date
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
+from channel_ids import FRASES_EPICAS
+from parse_phrases import parse_phrases
+
 Base = declarative_base()
 
 
@@ -37,6 +40,13 @@ class DB(object):
             except Exception as e:
                 print("Error occurred during Table creation!")
                 print(e)
+                return
+
+            phrases_list = parse_phrases()
+            for phrase_data in phrases_list:
+                phrase_data['channel'] = FRASES_EPICAS
+                self.save_message(**phrase_data)
+            print("Populated Messages with {} phrases".format(len(phrases_list)))
         else:
             print("Database setup finished")
 
