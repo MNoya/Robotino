@@ -1,1 +1,1 @@
-worker: python robotino.py
+worker: python source/robotino.py
