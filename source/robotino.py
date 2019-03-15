@@ -97,6 +97,7 @@ class Robotino(object):
             except:
                 continue
 
+        number = min(number, 9) # With great power comes great responsibility
         iterations = list(range(1, number + 1)) + list(reversed(range(1, number)))
         print("Creating emoji loop: pyramid {} {}".format(emoji, iterations))
         for i in iterations:
